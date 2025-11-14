@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.listatareas.app-mergeDebugResources-44:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.listatareas.app-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.listatareas.app-mergeDebugResources-44:\\layout\\fragment_listado_tareas.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.listatareas.app-main-47:\\layout\\fragment_listado_tareas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.listatareas.app-mergeDebugResources-44:\\layout\\viewholder_elemento.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.listatareas.app-main-47:\\layout\\viewholder_elemento.xml"
+    },
+    {
+        "merged": "com.example.listatareas.app-mergeDebugResources-44:/layout/fragment_mostrar_detalle_tarea.xml",
+        "source": "com.example.listatareas.app-main-47:/layout/fragment_mostrar_detalle_tarea.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.listatareas.app-mergeDebugResources-44:\\layout\\fragment_mostrar_detalle_tarea.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.listatareas.app-main-47:\\layout\\fragment_mostrar_detalle_tarea.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.listatareas.app-mergeDebugResources-44:\\layout\\fragment_nueva_tarea.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.listatareas.app-main-47:\\layout\\fragment_nueva_tarea.xml"
+    },
+    {
+        "merged": "com.example.listatareas.app-mergeDebugResources-44:/layout/fragment_nueva_tarea.xml",
+        "source": "com.example.listatareas.app-main-47:/layout/fragment_nueva_tarea.xml"
+    }
+]

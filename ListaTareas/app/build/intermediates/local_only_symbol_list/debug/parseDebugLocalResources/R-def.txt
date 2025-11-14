@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id action_listadoTareasFr_to_mostrarDetalleTareaFr
+id action_listadoTareasFr_to_nuevaTareaFr
+id crear
+id descripcion
+id fragment
+id graph_nav
+id guardar
+id irANuevoElemento
+id listadoTareasFr
+id main
+id mostrarDetalleTareaFr
+id nombre
+id nuevaTareaFr
+id recyclerView
+id valoracion
+layout activity_main
+layout fragment_listado_tareas
+layout fragment_mostrar_detalle_tarea
+layout fragment_nueva_tarea
+layout viewholder_elemento
+mipmap ic_launcher
+mipmap ic_launcher_round
+navigation graph_nav
+string app_name
+string hello_blank_fragment
+style Base.Theme.ListaTareas
+style Theme.ListaTareas
+xml backup_rules
+xml data_extraction_rules
